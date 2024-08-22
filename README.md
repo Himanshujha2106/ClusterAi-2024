@@ -110,7 +110,7 @@ ClusterAI is licensed under the MIT License. See the `LICENSE` file for more inf
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [himanshujha2106@gmail.com](mailto:himanshujha2106@gmail.com)
 - GitHub: [Himanshujha2106](https://github.com/Himanshujha2106)
 
 Thank you for using ClusterAI!

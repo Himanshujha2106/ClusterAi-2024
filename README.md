@@ -1,7 +1,7 @@
 
 # ClusterAI
 
-ClusterAI is an advanced machine learning platform built using Django, designed to perform data clustering tasks with high efficiency. It offers a seamless experience for developers and data scientists to cluster data, visualize results, and integrate clustering algorithms into their applications.
+ClusterAI is an intelligent tool that groups keywords into meaningful categories using clustering algorithms. It provides users with an efficient way to analyze and organize large datasets of keywords based on their similarity. The web application is built with a combination of frontend, backend, and machine learning technologies.
 
 ![ClusterAI Logo](static/images/logo.svg)
 
@@ -18,15 +18,17 @@ ClusterAI is an advanced machine learning platform built using Django, designed 
 
 ## Overview
 
-ClusterAI is aimed at providing an easy-to-use interface for clustering datasets using popular machine learning algorithms. Whether you're working on a small dataset or a large-scale project, ClusterAI can help you manage, visualize, and analyze your data efficiently.
+ClusterAI is an intelligent tool that groups keywords into meaningful categories using clustering algorithms. It provides users with an efficient way to analyze and organize large datasets of keywords based on their similarity. The web application is built with a combination of frontend, backend, and machine learning technologies.
 
 ## Features
 
-- **Multiple Clustering Algorithms:** Supports algorithms like K-Means, DBSCAN, and more.
-- **Data Visualization:** Interactive charts and graphs to help you understand clustering results.
-- **User-Friendly Interface:** Simple and intuitive web interface powered by Django.
-- **Scalable Architecture:** Easily scale the application to handle large datasets.
-- **API Access:** Integrate ClusterAI's functionality into other applications via RESTful API.
+-**Keyword Upload**: Users can input or upload a list of keywords for analysis.
+**Clustering Algorithms**: Implements two clustering methods:
+-**K-Means Clustering**: Groups keywords into a predefined number of clusters based on their similarity.
+-**Hierarchical Clustering**: Creates a tree-like structure to display the relationships between clusters.
+-**Interactive Visualization**: Provides visual representations of the clustered data, such as dendrograms or scatter plots.
+-**Export Options**: Allows users to download the clustered results in CSV or JSON format.
+-**Simple and Intuitive UI**: Easy-to-use interface for both technical and non-technical users.
 
 ## Installation
 

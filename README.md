@@ -22,13 +22,13 @@ ClusterAI is an intelligent tool that groups keywords into meaningful categories
 
 ## Features
 
--**Keyword Upload**: Users can input or upload a list of keywords for analysis.
-**Clustering Algorithms**: Implements two clustering methods:
--**K-Means Clustering**: Groups keywords into a predefined number of clusters based on their similarity.
--**Hierarchical Clustering**: Creates a tree-like structure to display the relationships between clusters.
--**Interactive Visualization**: Provides visual representations of the clustered data, such as dendrograms or scatter plots.
--**Export Options**: Allows users to download the clustered results in CSV or JSON format.
--**Simple and Intuitive UI**: Easy-to-use interface for both technical and non-technical users.
+- **Keyword Upload**: Users can input or upload a list of keywords for analysis.
+- **Clustering Algorithms**: Implements two clustering methods:
+- **K-Means Clustering**: Groups keywords into a predefined number of clusters based on their similarity.
+- **Hierarchical Clustering**: Creates a tree-like structure to display the relationships between clusters.
+- **Interactive Visualization**: Provides visual representations of the clustered data, such as dendrograms or scatter plots.
+- **Export Options**: Allows users to download the clustered results in CSV or JSON format.
+- **Simple and Intuitive UI**: Easy-to-use interface for both technical and non-technical users.
 
 ## Installation
 

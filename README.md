@@ -79,12 +79,19 @@ To set up ClusterAI on your local machine, follow these instructions:
 ClusterAI is designed to be intuitive and user-friendly. Here’s how you can start using the platform:
 
 1 -**Keyword Upload**: Users can input or upload a list of keywords for analysis.
+
 2 -**Clustering Algorithms**: Implements two clustering methods:
+
 3 -**K-Means Clustering**: Groups keywords into a predefined number of clusters based on their similarity.
+
 4 -**Hierarchical Clustering**: Creates a tree-like structure to display the relationships between clusters.
+
 5 -**Interactive Visualization**: Provides visual representations of the clustered data, such as dendrograms or scatter plots.
+
 6 -**Export Options**: Allows users to download the clustered results in CSV or JSON format.
+
 7 -**Simple and Intuitive UI**: Easy-to-use interface for both technical and non-technical users.
+
 
 ## Configuration
 
